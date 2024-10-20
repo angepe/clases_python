@@ -11,6 +11,7 @@ git checkout -b nombre_rama -> crea una rama nueva
 git branch -> muestra la rama actual
 git checkout nombre_rama -> permite moverse entre ramas
 git merge nombre_rama ->unifica los cambios realizados
+git branch -d nombre-de-la-rama ->elimina ramas locales
 gitk -> muestra las ramas y los cambios hechos en una interfaz gráfica
 //
 
