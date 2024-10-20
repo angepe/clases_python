@@ -1,0 +1,12 @@
+Comandos pip
+
+Pip: Es una biblioteca que contiene librerias (paquetes)
+
+|-PIP (Biblioteca)
+|--librerias
+|--|--pandas
+|--|--numpy
+
+
+pip list -> lista todas las librerias o paquetes que tiene instalado
+pip install nombre_liberia -> instala librerias

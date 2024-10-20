@@ -1,0 +1,12 @@
+1. Programación
+
+    Instrucciones que se ejecutan de forma secuencia
+
+    Estructura condicional
+    Condicionales para ejecutar una decisión
+
+    Estructura de iteración/repetición
+    Hacer algo varias veces
+
+        -While (Mientras) que se cumple la condición repetir acciones
+        -For 

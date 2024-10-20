@@ -1,0 +1,17 @@
+
+git init -> inicializa git 
+
+//uso frecuente
+git status -> muestra el estado de los cambios
+git add . -> agrega todo lo realizado a una cajita llamada stage
+git add nombre_directorio -> agrega un documento especifico
+git commit -m "Mensaje de lo que hizo" -> guarda el cambio
+git push -u origin main -> subir los cambios
+git checkout -b nombre_rama -> crea una rama nueva 
+git branch -> muestra la rama actual
+git checkout nombre_rama -> permite moverse entre ramas
+git merge nombre_rama ->unifica los cambios realizados
+gitk -> muestra las ramas y los cambios hechos en una interfaz gráfica
+//
+
+git remote -v -> ver configuraciòn remota

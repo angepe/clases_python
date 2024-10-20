@@ -1,0 +1,4 @@
+Comandos Python 
+
+python nombre_archivo.py -> ejecutar código python en la terminal
+     python ..\scripts\hola_mundo.py

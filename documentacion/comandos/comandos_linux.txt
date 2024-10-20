@@ -1,0 +1,13 @@
+Comandos terminal de linux
+
+    cd -> permite moverse entre carpetas
+    cd .. -> permite devolverse entre carpetas 
+    ls -al -> permite ver los archivos o carpetas que tiene un directorio
+    mkdir [nombre_directorio]-> Crea un nuevo directorio.
+    rmdir [directorio]-> Elimina un directorio.
+    copy [origen] [destino]-> Copia archivos de una ubicación a otra.
+    move [origen] [destino]-> Mueve o renombra archivos o directorios.
+    echo [texto]-> Imprime texto en la terminal.
+    clear-> Limpia la pantalla.
+    touch [nombre_archivo.extensión}-> crea un archivo con su respectiva extensión 
+    rm nombre_del_archivo -> elimina un archivo
